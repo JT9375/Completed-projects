@@ -1,7 +1,5 @@
 (require racket/trace)
 ;;Your full name: James R Terris
-;;Student ID: 001394883
-;;Date of birth (day/month/year): 06/08/2006
 
 ;;Data format: Name, Mother, Father, Date of birth, Date of death.
 ;;An empty list means Unknown.
