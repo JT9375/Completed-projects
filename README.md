@@ -1,2 +1,3 @@
-Welcome to my Repository!
-Here you will be able to find programing projects I have completed throughout my time in Sixth form and at the University of Greenwich Studying Cyber Security and digital forensics.
+As of right now, I have not completed any programing projects within my second year at UOG.
+Instead we have been focused on networking and information security.
+We are in the process of developing code within an Advanced Algorythms module. Once complete, you will find it here!
