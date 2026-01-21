@@ -1,2 +1,3 @@
-Welcome to Year 2! 
+Welcome to my year projects!
+
 So far, I have completed a programing project in Advanced Algorythms. This project utalised the CLRS library to develop solutions for finding the shortest path between two stations on the London Underground network. We developed multiple solutions which found the shortest path by a veriaty of diferent peramiters including the shortest path by time or number of stations. This project was completed as part of a group of 6 people. In this repository, I will only be displaying the code which i have personally contributed to. 
