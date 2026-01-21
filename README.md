@@ -1,5 +1,2 @@
-As of right now, I have not completed any programing projects within my second year at UOG.
-
-Instead we have been focused on networking and information security.
-
-We are in the process of developing code within an Advanced Algorythms module. Once complete,by the end of the year, you will find it here!
+Welcome to Year 2! 
+So far, I have completed a programing project in Advanced Algorythms. This project utalised the CLRS library to develop solutions for finding the shortest path between two stations on the London Underground network. We developed multiple solutions which found the shortest path by a veriaty of diferent peramiters including the shortest path by time or number of stations. This project was completed as part of a group of 6 people. In this repository, I will only be displaying the code which i have personally contributed to. 
